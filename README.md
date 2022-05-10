@@ -1,6 +1,6 @@
 Ce dépôt est relatif à un petit article publié dans _Bugey-Côtière_ à propos des piscines privées situées dans deux communes de la Côtière (Ain). 
 
-#### Fichiers de requêtes sur OpenStreetMap :
+#### Fichiers de requêtes sur OpenStreetMap - à lancer depuis https://overpass-turbo.eu :
 * Requête Overpass-Saint-Maurice-de-Beynost
 * Requête Overpass-Beynost
 
