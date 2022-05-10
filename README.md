@@ -5,7 +5,7 @@ Ce dépôt est relatif à un petit article à propos des piscines privées situ�
 * Fichier csv du résultat au 10 mai 2022 (Beynost)
 
 Chaque fichier csv contient les colonnes suivantes :
-* Périmètre
-* Surface approximée : rectangle (longueur <=> 2 fois la largeur) => surface = périmètre * périmètre / 18
-* Volume approximée avec hauteur fixée à 1,2 mètres.
+* Périmètre (en mètre)
+* Surface approximée : rectangle (longueur <=> 2 fois la largeur) => surface = périmètre * périmètre / 18 (en mètre carré)
+* Volume approximée avec hauteur fixée à 1,2 mètres (en mètre cube)
 
