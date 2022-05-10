@@ -1,0 +1,5 @@
+[out:csv(length)][maxsize:1000000000];
+{{geocodeArea:Beynost}}->.searchArea;
+way["leisure"="swimming_pool"]["access"="private"](area.searchArea);
+convert result length=length();
+out geom;
