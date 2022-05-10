@@ -6,6 +6,6 @@ Ce dépôt est relatif à un petit article à propos des piscines privées situ�
 
 Chaque fichier csv contient les colonnes suivantes :
 * Périmètre (en mètre)
-* Surface approximée : rectangle (longueur <=> 2 fois la largeur) => surface = périmètre * périmètre / 18 (en mètre carré)
-* Volume approximée avec hauteur fixée à 1,2 mètres (en mètre cube)
+* Surface approximée (en mètre carré) : rectangle (longueur <=> 2 fois la largeur) => surface = périmètre * périmètre / 18 
+* Volume approximée (en mètre cube) avec hauteur fixée à 1,3 mètres 
 
