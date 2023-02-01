@@ -1,4 +1,4 @@
-Ce dépôt est relatif à un petit article publié dans _Bugey-Côtière_ nuémro 1350, p. 14 (28 juillet 2022) ([wd](https://www.wikidata.org/wiki/Q113359281)), à propos des piscines privées situées dans deux communes de la Côtière (Ain). 
+Ce dépôt est relatif à un petit article publié dans _Bugey-Côtière_ numéro 1350, p. 14 (28 juillet 2022) ([wd](https://www.wikidata.org/wiki/Q113359281)), à propos des piscines privées situées dans deux communes de la Côtière (Ain). 
 
 #### Fichiers de requêtes sur OpenStreetMap - à lancer depuis https://overpass-turbo.eu :
 * Requête Overpass-Saint-Maurice-de-Beynost
